@@ -1,0 +1,2 @@
+# sistem_manajemen_ekstrakulikuler
+projek manajemen proyek informatika-sistem manajemen ekstrakulikuler
